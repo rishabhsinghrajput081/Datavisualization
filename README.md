@@ -39,11 +39,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch (`git checkout -b feature/improvement`).
 3. Make your changes.
 4. Commit your changes!
-5. [Scr![Screen Shot 2024-05-12 at 3 15 55 PM](https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/8ecc5871-ae45-44d6-a3e4-fc34c42a1038)
+(https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/8ecc5871-ae45-44d6-a3e4-fc34c42a1038)
 een Shot 2024-05-12 at 3 15 09 PM](https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/eb0d16f8-0366-458a-8bdd-f37468ec4f91) 
-6. Push to the bra![Screen Shot 2024-05-12 at 3 17 11 PM]![Screen Shot 2024-05-12 at 3 17 57 PM](https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/946391c2-8f59-473d-a127-e3b8de54a625)
+(https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/946391c2-8f59-473d-a127-e3b8de54a625)
 (https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/9d4659f7-771a-4bb0-b65f-83b86cbb7901)
-nch .![Screen Shot 2024-05-12 at 3 16 34 PM](https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/47262e4d-a9c2-4e90-83d8-2ff482047f39)
+(https://github.com/rishabhsinghrajput081/Datavisualization/assets/48958748/47262e4d-a9c2-4e90-83d8-2ff482047f39)
 
 
 
